@@ -1,0 +1,13 @@
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.deps.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.dev.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfoInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfo.cs
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.CoreCompileInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.genruntimeconfig.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.AssemblyReference.cache
