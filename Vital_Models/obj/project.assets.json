@@ -5895,23 +5895,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TanveerU\\.nuget\\packages\\": {},
+    "C:\\Users\\ChittibalaD\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Models\\Vital_Models.csproj",
+      "projectUniqueName": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Models\\Vital_Models.csproj",
       "projectName": "Vital_Models",
-      "projectPath": "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Models\\Vital_Models.csproj",
-      "packagesPath": "C:\\Users\\TanveerU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Models\\obj\\",
+      "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Models\\Vital_Models.csproj",
+      "packagesPath": "C:\\Users\\ChittibalaD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\TanveerU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ChittibalaD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

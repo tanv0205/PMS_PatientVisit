@@ -30,6 +30,7 @@ namespace PMS_VitalSigns
         {
             services.AddControllers();
             services.AddTransient<IVitalBusiness, VitalBusiness>();
+            services.AddTransient<IPatientVisitBusiness, PatientVisitBusiness>();
             services.RegisterBusinessDependencies();
 
             services.AddCors(options =>

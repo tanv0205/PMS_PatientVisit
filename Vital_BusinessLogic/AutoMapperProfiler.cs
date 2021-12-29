@@ -12,6 +12,10 @@ namespace Vital_BusinessLogic
         public AutoMapperProfiler()
         {
             CreateMap<VitalSignModel, VitalSigns>().ReverseMap();
+            CreateMap<DiagnosisModel, Diagnosis>().ReverseMap();
+            CreateMap<PprocedureModel, Pprocedure>().ReverseMap();
+            CreateMap<MedicationModel, Medication>().ReverseMap();
+            CreateMap<PatientVisitModel, PatientVisit>().ReverseMap();
         }
     }
 }

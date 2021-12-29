@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Repository\\Vital_Repository.csproj": {}
+    "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Repository\\Vital_Repository.csproj": {
+    "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Repository\\Vital_Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj",
         "projectName": "Vital_Repository",
-        "projectPath": "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Repository\\Vital_Repository.csproj",
-        "packagesPath": "C:\\Users\\TanveerU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TanveerU\\source\\repos\\PMS_VitalSigns\\Vital_Repository\\obj\\",
+        "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj",
+        "packagesPath": "C:\\Users\\ChittibalaD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\TanveerU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ChittibalaD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
