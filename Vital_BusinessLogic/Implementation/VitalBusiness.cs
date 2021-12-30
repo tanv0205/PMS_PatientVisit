@@ -29,9 +29,10 @@ namespace Vital_BusinessLogic.Implementation
             return id;
         }
 
-        public Task<IEnumerable<VitalSignModel>> GetAll()
+        public async Task<IEnumerable<VitalSignModel>> GetAll()
         {
-            throw new NotImplementedException();
+            var vitals = await _vitalRepository.GetAll();
+            return _imapper.Map<IEnumerable<VitalSignModel>>(vitals);
         }
 
         public Task<VitalSignModel> GetVitalSignById(int id)

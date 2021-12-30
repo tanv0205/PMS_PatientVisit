@@ -17,6 +17,10 @@ namespace Vital_Repository.UnitOfWork
         private VitalSignContext _context = null;
         private GenericRepository<Patient> _patientRepository;
         private GenericRepository<VitalSigns> _vitalRepository;
+        private GenericRepository<Diagnosis> _diagnosisRepository;
+        private GenericRepository<Pprocedure> _pprocedureRepository;
+        private GenericRepository<Medication> _medicationRepository;
+        private GenericRepository<PatientVisit> _patientVisitRepository;
 
         #endregion
 
@@ -48,6 +52,50 @@ namespace Vital_Repository.UnitOfWork
                     _vitalRepository = new GenericRepository<VitalSigns>(_context);
                 }
                 return _vitalRepository;
+            }
+        }
+        public GenericRepository<PatientVisit> PatientVisitRepository
+        {
+            get
+            {
+                if (_patientVisitRepository == null)
+                {
+                    _patientVisitRepository = new GenericRepository<PatientVisit>(_context);
+                }
+                return _patientVisitRepository;
+            }
+        }
+        public GenericRepository<Diagnosis> DiagnosisRepository
+        {
+            get
+            {
+                if (_diagnosisRepository == null)
+                {
+                    _diagnosisRepository = new GenericRepository<Diagnosis>(_context);
+                }
+                return _diagnosisRepository;
+            }
+        }
+        public GenericRepository<Pprocedure> PprocudureRepository
+        {
+            get
+            {
+                if (_pprocedureRepository == null)
+                {
+                    _pprocedureRepository = new GenericRepository<Pprocedure>(_context);
+                }
+                return _pprocedureRepository;
+            }
+        }
+        public GenericRepository<Medication> MedicationRepository
+        {
+            get
+            {
+                if (_medicationRepository == null)
+                {
+                    _medicationRepository = new GenericRepository<Medication>(_context);
+                }
+                return _medicationRepository;
             }
         }
 

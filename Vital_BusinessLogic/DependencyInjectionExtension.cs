@@ -12,6 +12,7 @@ namespace Vital_BusinessLogic
         public static IServiceCollection RegisterBusinessDependencies(this IServiceCollection services)
         {
             services.AddTransient<IVitalRepository, VitalRepository>();
+            services.AddTransient<IPatientVisitRepository, PatientVisitRepository>();
             return services;
         }
     }
