@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9srk10o1qU8ZUTlmNtP5thW32PVrSErvriQBUAJjTsrHYUjzeg7FHYbU0ounJsJvyTRnsf+6R/pKC98vHV1JoA==",
+  "dgSpecHash": "2E55mlcWyOtmzfnJQ9j6FGDc3jFKuv0f56LZwt4bv6ZhzRSyg6buyrF65l8MrwknJFp9EeySf9ObldA32c3lbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_BusinessLogic\\Vital_BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_BusinessLogic\\Vital_BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ChittibalaD\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ChittibalaD\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",

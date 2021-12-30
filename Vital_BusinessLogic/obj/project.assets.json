@@ -5987,11 +5987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_BusinessLogic\\Vital_BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_BusinessLogic\\Vital_BusinessLogic.csproj",
       "projectName": "Vital_BusinessLogic",
-      "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_BusinessLogic\\Vital_BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_BusinessLogic\\Vital_BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\ChittibalaD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6014,11 +6014,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Models\\Vital_Models.csproj": {
-              "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Models\\Vital_Models.csproj"
+            "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_Models\\Vital_Models.csproj": {
+              "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_Models\\Vital_Models.csproj"
             },
-            "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj": {
-              "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\PatientVisit3\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj"
+            "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj": {
+              "projectPath": "C:\\Users\\ChittibalaD\\Desktop\\API Projects Final\\PMS_PatientVisit\\Vital_Repository\\Vital_Repository.csproj"
             }
           }
         }

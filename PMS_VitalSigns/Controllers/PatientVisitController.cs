@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -9,6 +10,7 @@ using Vital_Models;
 
 namespace PMS_VitalSigns.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PatientVisitController : ControllerBase
@@ -20,6 +22,7 @@ namespace PMS_VitalSigns.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin,Physician,Nurse")]
         public async Task<VisitDetailsModel> Get()
         {
             try
