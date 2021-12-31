@@ -22,7 +22,7 @@ namespace PMS_VitalSigns.Controllers
         }
 
         [HttpPost]
-        public async Task<int> AddVital(VitalSignModel vital)
+        public async Task<int> AddVital([FromBody]VitalSignModel vital)
         {
             int result = 0;
             try
@@ -34,6 +34,22 @@ namespace PMS_VitalSigns.Controllers
 
             }
             return result;
+        }
+        [HttpGet]
+        public async Task<IEnumerable<VitalSignModel>> GetVital()
+        {
+            //int result = 0;
+            try
+            {
+                return await _vitalBusiness.GetAll();
+                //IEnumerable<VitalSignModel> vitalSigns = await _vitalBusiness.GetAll();
+                //return vitalSigns;
+            }
+            catch (Exception e)
+            {
+                throw;
+            }
+            //return IEnumerable<VitalSignModel>;
         }
     }
 }
